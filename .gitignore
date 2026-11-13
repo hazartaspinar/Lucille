@@ -1,0 +1,11 @@
+# Lucille output
+*.jsonl
+*.jsonl.state
+*.jsonl.skipped
+*-log.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
